@@ -3,6 +3,11 @@ package com.study.entity;
 import java.io.Serializable;
 import java.util.Date;
 
+/**
+ * 
+ * @author Administrator
+ *
+ */
 public class User implements Serializable {
 	
 	private static final long serialVersionUID = 6383798674925888925L;
